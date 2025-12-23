@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="GihxnDCZW-QkXpLAHVb-p5Mp0L_HLC4C43Ui6jkorHo" />
 # n8n Automation App
 
 This application is used to automate workflows using Google APIs
