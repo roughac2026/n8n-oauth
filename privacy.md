@@ -1,14 +1,11 @@
-# Privacy Policy
+# n8n Automation App
 
-This application uses Google APIs (such as Google Drive) to automate
-workflows initiated by the user.
+This application is used to automate workflows using Google APIs
+through the n8n automation platform.
 
-## Data Usage
-- Data is accessed only after user authorization
-- Data is used solely for automation purposes
-- No data is shared with third parties
-- No data is stored outside the user's Google account unless required
-  for workflow execution
+Access to Google services is requested only after explicit user consent.
+No data is shared with third parties.
 
-## Contact
-For questions, contact: your@email.com
+## Privacy Policy
+You can review our privacy policy here:
+[Privacy Policy](https://roughac2026.github.io/n8n-oauth/privacy)
