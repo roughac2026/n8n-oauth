@@ -1,7 +1,11 @@
 # n8n Automation App
 
-This application is used to automate workflows using Google APIs.
-It is intended for personal and client-authorized automation only.
+This application is used to automate workflows using Google APIs
+through the n8n automation platform.
 
-This app is built using n8n and accesses Google services
-only after explicit user consent.
+Access to Google services is requested only after explicit user consent.
+No data is shared with third parties.
+
+## Privacy Policy
+You can review our privacy policy here:
+[Privacy Policy](https://roughac2026.github.io/n8n-oauth/privacy)
